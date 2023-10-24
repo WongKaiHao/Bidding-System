@@ -1,6 +1,6 @@
 # Assignment For Data Structure
 
-## Bidding system 
+## Bidding system using Swing
 
 ### Data Structure : Abstract Data Type(ADT)
 - ArrayList
